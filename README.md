@@ -11,18 +11,18 @@ You must have Python 3 and Git installed to run the project.
 
 1. Clone the repository:
 
-``bash
+```bash
 git clone https://github.com/VotBotCot/Tmusix.git.
 ```
 2. Navigate to the project folder:
 
-``bash
+```bash
 cd Tmusix
 ```
 
 3. Install the required libraries:
 
-``bash
+```bash
 pip install -r requirements.txt
 ```
 
@@ -30,12 +30,12 @@ pip install -r requirements.txt
 
 Run the file main.py and enter the file name:
 
-``bash
+```bash
 python app.py
 ```
 Or, where music.mp3 is your file
 
-``bash
+```bash
 python app.py music.mp3
 ```
 
