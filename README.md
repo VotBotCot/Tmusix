@@ -12,7 +12,7 @@ You must have Python 3 and Git installed to run the project.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/VotBotCot/Tmusix.git.
+git clone https://github.com/VotBotCot/Tmusix.git
 ```
 2. Navigate to the project folder:
 
